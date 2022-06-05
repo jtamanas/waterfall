@@ -13,7 +13,7 @@ what this theme brings back :
 
 other changes : 
 - moved url bar to the right
-- removed macOS buttonbox (i.e. close, minimize, full screen)
+- removed macOS buttonbox (i.e. close, minimize, full screen). Special thanks to adamsherpa for the suggestion [here](https://github.com/crambaud/waterfall/issues/2#issuecomment-1141339416) 
 - allow for smaller windows
 - more extreme adaptive tab sizing 
 - added margins to left and right window edges to allow for easier dragging on smaller windows
