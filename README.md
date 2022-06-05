@@ -11,6 +11,12 @@ what this theme brings back :
 - close tab button on hover
 - hamburger menu
 
+other changes : 
+- moved url bar to the right
+- removed macOS buttonbox (i.e. close, minimize, full screen)
+- allow for smaller windows
+- tab sizing mimics safari v14 
+
 ## Themes
 
 ![dark waterfall theme](assets/previewThemes.png)
@@ -45,6 +51,7 @@ and uncomment those lines :
 
 - Andreas Grafen (original cascade theme) (https://andreas.grafen.info)
 - Clément Rambaud (mods on the original file for a mouse-centered use)
+- John Tamanas (mods on the Clement form for mac-friendly use)
 ‎
 ## License
 
