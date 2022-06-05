@@ -15,7 +15,8 @@ other changes :
 - moved url bar to the right
 - removed macOS buttonbox (i.e. close, minimize, full screen)
 - allow for smaller windows
-- tab sizing mimics safari v14 
+- more extreme adaptive tab sizing 
+- added margins to left and right window edges to allow for easier dragging on smaller windows
 
 ## Themes
 
