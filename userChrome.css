@@ -82,7 +82,7 @@
     /* dynamic tab width settings */
     /* --uc-active-tab-width:   clamp( 135px, 33vw, 2045px);
     --uc-inactive-tab-width: clamp( 30px, 12vw, 125px); */
-    --uc-inactive-tab-width:   clamp( 135px, 33vw, 1080px);
+    --uc-inactive-tab-width:   clamp( 135px, 23vw, 1080px);
     --uc-active-tab-width: clamp( 30px, 12vw, 125px);
 
     /* if active always shows the tab close button */
