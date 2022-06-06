@@ -52,7 +52,7 @@ and uncomment those lines :
 
 - Andreas Grafen (original cascade theme) (https://andreas.grafen.info)
 - Clément Rambaud (mods on the original file for a mouse-centered use)
-- John Tamanas (mods on the Clement form for mac-friendly use)
+- John Tamanas (mods for more mac-friendly use)
 ‎
 ## License
 
