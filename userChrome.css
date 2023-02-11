@@ -80,10 +80,8 @@
     --uc-urlbar-margin-left: 525px;
 
     /* dynamic tab width settings */
-    /* --uc-active-tab-width:   clamp( 135px, 33vw, 2045px);
-    --uc-inactive-tab-width: clamp( 30px, 12vw, 125px); */
-    --uc-inactive-tab-width:   clamp( 135px, 23vw, 320px);
-    --uc-active-tab-width: clamp( 30px, 12vw, 125px);
+    --uc-active-tab-width:   clamp( 135px, 33vw, 2045px);
+    --uc-inactive-tab-width: clamp( 30px, 12vw, 125px);
 
     /* if active always shows the tab close button */
     --show-tab-close-button: none; /* DEFAULT: -moz-inline-box; */
@@ -412,7 +410,7 @@ window,
 
 
 /* transition to oneline */
-@media (min-width: 700px) {
+@media (min-width: 950px) {
 
 
     /* move tabs bar over */
